@@ -1,0 +1,23 @@
+{
+  "name": "dev-battle-ynov-thales",
+  "version": "1.0.0",
+  "description": "Petite battle de Dev organisée par Thalès Labège sur le campus d'Ynov",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolas-Delahaie/dev-battle-ynov-thales.git"
+  },
+  "author": "Nicolas delahaie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicolas-Delahaie/dev-battle-ynov-thales/issues"
+  },
+  "homepage": "https://github.com/Nicolas-Delahaie/dev-battle-ynov-thales#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
