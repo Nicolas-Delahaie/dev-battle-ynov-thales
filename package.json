@@ -1,7 +1,6 @@
 {
   "name": "dev-battle-ynov-thales",
   "version": "1.0.0",
-  "description": "Petite battle de Dev organisée par Thalès Labège sur le campus d'Ynov",
   "main": "index.ts",
   "scripts": {
     "start": "ts-node index.ts"
