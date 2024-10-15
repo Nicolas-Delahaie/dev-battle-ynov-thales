@@ -11,7 +11,6 @@
   const renewable: number[] = [14, 14, 17, 18, 5, 7, 18, 11, 12, 17];
   // NE PAS TOUCHER
 
-
   function popMinMax(measures: number[]) {
     measures.sort((a, b) => a - b);
     measures.shift();

@@ -18,7 +18,6 @@
   const storages = ["DDCCC", "HPPHPH", "PPHCCC", "PCPHC", "HCHD"];
   // NE PAS TOUCHER
 
-
   const mapping = {
     P: 1,
     H: 2,
