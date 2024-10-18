@@ -8,4 +8,10 @@ Bien qu'on puisse être en équipe de 2, j'ai relevé le défi seul. Sur 5 défi
 
 # Utilisation
 
-Les scripts sont utilisables avec `npx ts-node <filename>`
+## Dans le terminal
+
+Les scripts sont utilisables avec `npx ts-node <file>`
+
+## Dans la console F12
+
+`npx tsc <file> --outDir ./index.js` puis ouvrir le `index.html`.
